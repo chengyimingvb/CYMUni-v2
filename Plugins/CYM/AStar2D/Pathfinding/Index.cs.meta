@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 098cb9fc945921341b4a3a4fe438d9ff
+labels:
+- Multithreading
+- Pathfinding
+- A*
+- AStar
+- Examples
+- Grid
+- Tile
+timeCreated: 1472717711
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

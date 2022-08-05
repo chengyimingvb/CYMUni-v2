@@ -1,0 +1,566 @@
+{
+    "Data": [
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_shared/15911f7a17bcc3e20e7f11222d520ad0",
+            "IsShared": true,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "",
+                    "FullPath": "Assets/CYMUni/_Res/Shaders/UI/CircleGuidanceShader.shader",
+                    "FileName": "CircleGuidanceShader",
+                    "Category": ""
+                },
+                {
+                    "SourceBundleName": "",
+                    "FullPath": "Assets/CYMUni/_Res/Shaders/UI/RectGuidanceShader.shader",
+                    "FileName": "RectGuidanceShader",
+                    "Category": ""
+                },
+                {
+                    "SourceBundleName": "",
+                    "FullPath": "Assets/CYMUni/_Res/Shaders/UI/MaskedUIBlur.shader",
+                    "FileName": "MaskedUIBlur",
+                    "Category": ""
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_shared/508878f8b24b45eb18ee12d44fedf575",
+            "IsShared": true,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "",
+                    "FullPath": "Assets/CYMUni/_Res/Fonts/Normal-S.otf",
+                    "FileName": "Normal-S",
+                    "Category": ""
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_shared/237778ffc69e94c4aa2a068c839ed748",
+            "IsShared": true,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "",
+                    "FullPath": "Assets/CYMUni/Plugins/SoftMask/Shaders/SoftMaskETC1.shader",
+                    "FileName": "SoftMaskETC1",
+                    "Category": ""
+                },
+                {
+                    "SourceBundleName": "",
+                    "FullPath": "Assets/CYMUni/Plugins/SoftMask/Shaders/SoftMask.shader",
+                    "FileName": "SoftMask",
+                    "Category": ""
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_config",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "config",
+                    "FullPath": "Assets/CYMUni/_Bundles/Config/DLCItem.json",
+                    "FileName": "DLCItem",
+                    "Category": "dlcitem.json"
+                },
+                {
+                    "SourceBundleName": "config",
+                    "FullPath": "Assets/CYMUni/_Bundles/Config/DLCManifest.json",
+                    "FileName": "DLCManifest",
+                    "Category": "dlcmanifest.json"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_language",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "language",
+                    "FullPath": "Assets/CYMUni/_Bundles/Language/System.bytes",
+                    "FileName": "System",
+                    "Category": "system.bytes"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_sprite",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "sprite",
+                    "FullPath": "Assets/CYMUni/_Bundles/Sprite/BntClose.png",
+                    "FileName": "BntClose",
+                    "Category": "bntclose.png"
+                },
+                {
+                    "SourceBundleName": "sprite",
+                    "FullPath": "Assets/CYMUni/_Bundles/Sprite/HandWhite.png",
+                    "FileName": "HandWhite",
+                    "Category": "handwhite.png"
+                },
+                {
+                    "SourceBundleName": "sprite",
+                    "FullPath": "Assets/CYMUni/_Bundles/Sprite/HighlightFrame.png",
+                    "FileName": "HighlightFrame",
+                    "Category": "highlightframe.png"
+                },
+                {
+                    "SourceBundleName": "sprite",
+                    "FullPath": "Assets/CYMUni/_Bundles/Sprite/RectMask.png",
+                    "FileName": "RectMask",
+                    "Category": "rectmask.png"
+                },
+                {
+                    "SourceBundleName": "sprite",
+                    "FullPath": "Assets/CYMUni/_Bundles/Sprite/SeparatorLine.png",
+                    "FileName": "SeparatorLine",
+                    "Category": "separatorline.png"
+                },
+                {
+                    "SourceBundleName": "sprite",
+                    "FullPath": "Assets/CYMUni/_Bundles/Sprite/SoftMask.png",
+                    "FileName": "SoftMask",
+                    "Category": "softmask.png"
+                },
+                {
+                    "SourceBundleName": "sprite",
+                    "FullPath": "Assets/CYMUni/_Bundles/Sprite/UIMask.png",
+                    "FileName": "UIMask",
+                    "Category": "uimask.png"
+                },
+                {
+                    "SourceBundleName": "sprite",
+                    "FullPath": "Assets/CYMUni/_Bundles/Sprite/White.png",
+                    "FileName": "White",
+                    "Category": "white.png"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_icon",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "icon",
+                    "FullPath": "Assets/CYMUni/_Bundles/Icon/Empty.png",
+                    "FileName": "Empty",
+                    "Category": "empty.png"
+                },
+                {
+                    "SourceBundleName": "icon",
+                    "FullPath": "Assets/CYMUni/_Bundles/Icon/EmptySkill.png",
+                    "FileName": "EmptySkill",
+                    "Category": "emptyskill.png"
+                },
+                {
+                    "SourceBundleName": "icon",
+                    "FullPath": "Assets/CYMUni/_Bundles/Icon/Logo/Common.psd",
+                    "FileName": "Common",
+                    "Category": "logo"
+                },
+                {
+                    "SourceBundleName": "icon",
+                    "FullPath": "Assets/CYMUni/_Bundles/Icon/Logo/巴西龟.png",
+                    "FileName": "巴西龟",
+                    "Category": "logo"
+                },
+                {
+                    "SourceBundleName": "icon",
+                    "FullPath": "Assets/CYMUni/_Bundles/Icon/Logo/甲骨文.PNG",
+                    "FileName": "甲骨文",
+                    "Category": "logo"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_audio",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "audio",
+                    "FullPath": "Assets/CYMUni/_Bundles/Audio/AppTab.wav",
+                    "FileName": "AppTab",
+                    "Category": "apptab.wav"
+                },
+                {
+                    "SourceBundleName": "audio",
+                    "FullPath": "Assets/CYMUni/_Bundles/Audio/BntHover.wav",
+                    "FileName": "BntHover",
+                    "Category": "bnthover.wav"
+                },
+                {
+                    "SourceBundleName": "audio",
+                    "FullPath": "Assets/CYMUni/_Bundles/Audio/Error.wav",
+                    "FileName": "Error",
+                    "Category": "error.wav"
+                },
+                {
+                    "SourceBundleName": "audio",
+                    "FullPath": "Assets/CYMUni/_Bundles/Audio/Event.wav",
+                    "FileName": "Event",
+                    "Category": "event.wav"
+                },
+                {
+                    "SourceBundleName": "audio",
+                    "FullPath": "Assets/CYMUni/_Bundles/Audio/Focus.wav",
+                    "FileName": "Focus",
+                    "Category": "focus.wav"
+                },
+                {
+                    "SourceBundleName": "audio",
+                    "FullPath": "Assets/CYMUni/_Bundles/Audio/Tabclick.wav",
+                    "FileName": "Tabclick",
+                    "Category": "tabclick.wav"
+                },
+                {
+                    "SourceBundleName": "audio",
+                    "FullPath": "Assets/CYMUni/_Bundles/Audio/WVSlider.wav",
+                    "FileName": "WVSlider",
+                    "Category": "wvslider.wav"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_material",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMUni/_Bundles/Material/Dissolve/DissolveFire.mat",
+                    "FileName": "DissolveFire",
+                    "Category": "dissolve"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMUni/_Bundles/Material/Dissolve/DissolveFire_NoLighting.mat",
+                    "FileName": "DissolveFire_NoLighting",
+                    "Category": "dissolve"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMUni/_Bundles/Material/Dissolve/DissolveSeams.mat",
+                    "FileName": "DissolveSeams",
+                    "Category": "dissolve"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMUni/_Bundles/Material/Dissolve/DissolveWithoutSeams.mat",
+                    "FileName": "DissolveWithoutSeams",
+                    "Category": "dissolve"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMUni/_Bundles/Material/UI/CircleGuidanceMat.mat",
+                    "FileName": "CircleGuidanceMat",
+                    "Category": "ui"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMUni/_Bundles/Material/UI/FontRendering.mat",
+                    "FileName": "FontRendering",
+                    "Category": "ui"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMUni/_Bundles/Material/UI/ImageGrey.mat",
+                    "FileName": "ImageGrey",
+                    "Category": "ui"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMUni/_Bundles/Material/UI/RectGuidanceMat.mat",
+                    "FileName": "RectGuidanceMat",
+                    "Category": "ui"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMUni/_Bundles/Material/UI/UIBlur.mat",
+                    "FileName": "UIBlur",
+                    "Category": "ui"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_ui",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/HUDItem/UDamageJumpFont.prefab",
+                    "FileName": "UDamageJumpFont",
+                    "Category": "huditem"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/HUDItem/UStateJumpFont.prefab",
+                    "FileName": "UStateJumpFont",
+                    "Category": "huditem"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/HUDItem/UTextBubble.prefab",
+                    "FileName": "UTextBubble",
+                    "Category": "huditem"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/HUDItem/UTreatmentJumpFont.prefab",
+                    "FileName": "UTreatmentJumpFont",
+                    "Category": "huditem"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/Presenter/UBgText.prefab",
+                    "FileName": "UBgText",
+                    "Category": "presenter"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/Presenter/UBlur.prefab",
+                    "FileName": "UBlur",
+                    "Category": "presenter"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/Presenter/UIconAttr.prefab",
+                    "FileName": "UIconAttr",
+                    "Category": "presenter"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/Presenter/UImage.prefab",
+                    "FileName": "UImage",
+                    "Category": "presenter"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/Presenter/UProto.prefab",
+                    "FileName": "UProto",
+                    "Category": "presenter"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/Presenter/UText.prefab",
+                    "FileName": "UText",
+                    "Category": "presenter"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/Root/UHUDView.prefab",
+                    "FileName": "UHUDView",
+                    "Category": "root"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/Root/URootView.prefab",
+                    "FileName": "URootView",
+                    "Category": "root"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/Root/UWorldRootView.prefab",
+                    "FileName": "UWorldRootView",
+                    "Category": "root"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UAlertBarView.prefab",
+                    "FileName": "UAlertBarView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UBattleMenuView.prefab",
+                    "FileName": "UBattleMenuView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UCreditsView.prefab",
+                    "FileName": "UCreditsView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UEventDlgView.prefab",
+                    "FileName": "UEventDlgView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UFadeView.prefab",
+                    "FileName": "UFadeView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UGuideView.prefab",
+                    "FileName": "UGuideView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UHelpView.prefab",
+                    "FileName": "UHelpView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/ULoadingView.prefab",
+                    "FileName": "ULoadingView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UMainMenuView.prefab",
+                    "FileName": "UMainMenuView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UModalBoxView.prefab",
+                    "FileName": "UModalBoxView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UNarrationView.prefab",
+                    "FileName": "UNarrationView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UNationSelectView.prefab",
+                    "FileName": "UNationSelectView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UNotificationLevelView.prefab",
+                    "FileName": "UNotificationLevelView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UNotificationView.prefab",
+                    "FileName": "UNotificationView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UPlotTipView.prefab",
+                    "FileName": "UPlotTipView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UProcessView.prefab",
+                    "FileName": "UProcessView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/URenameView.prefab",
+                    "FileName": "URenameView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/USaveOrLoadView.prefab",
+                    "FileName": "USaveOrLoadView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UScenarioDlgView.prefab",
+                    "FileName": "UScenarioDlgView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/USelectView.prefab",
+                    "FileName": "USelectView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/USettingsView.prefab",
+                    "FileName": "USettingsView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/UTestView.prefab",
+                    "FileName": "UTestView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/LoggerView/ULoggerView.prefab",
+                    "FileName": "ULoggerView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/LoggerView/ULogItem.prefab",
+                    "FileName": "ULogItem",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/TalkView/UTalkSel.prefab",
+                    "FileName": "UTalkSel",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/TalkView/UTalkView.prefab",
+                    "FileName": "UTalkView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/TooltipView/UBuffTipView.prefab",
+                    "FileName": "UBuffTipView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/TooltipView/UStaffTipView.prefab",
+                    "FileName": "UStaffTipView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/TooltipView/UTipView.prefab",
+                    "FileName": "UTipView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/TooltipView/UTooltipTopdownView.prefab",
+                    "FileName": "UTooltipTopdownView",
+                    "Category": "view"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMUni/_Bundles/UI/View/TooltipView/UTooltipView.prefab",
+                    "FileName": "UTooltipView",
+                    "Category": "view"
+                }
+            ]
+        }
+    ]
+}
